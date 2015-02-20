@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hei, 
+
+{shop_name} inviterer deg til å sende denne linken til dine venner,
+så de kan se din ønskeliste: {wishlist}
+
+{message} [{message}] 		 
+
+{shop_name} [{shop_url}] drevet av PrestaShop(tm)
+[http://www.prestashop.com/] 
+

@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hei {firstname} {lastname}, 
+
+ADVARSEL: du har mottatt et log-varsel i admin.
+
+Du kan se etter den i "VERKTØY" > "LOGGER" seksjonen på
+adminsidene. 		 
+
+{shop_name} [{shop_url}] drevet av PrestaShop(tm)
+[http://www.prestashop.com/] 
+

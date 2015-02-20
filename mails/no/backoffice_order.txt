@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hei {firstname} {lastname}, 
+
+En ny ordre har blitt generert på vegne av deg. 
+
+Gå til {order_link} [{order_link}] for å fullføre
+betalingen. 		 
+
+{shop_name} [{shop_url}] drevet av PrestaShop(tm)
+[http://www.prestashop.com/] 
+

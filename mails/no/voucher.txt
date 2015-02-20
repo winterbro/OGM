@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Hei {firstname} {lastname}, 
+
+En rabattkupong har blitt opprettet i ditt navn som er resultat av
+ordre med referanse {order_name}.
+
+RABATTKUPONG: {voucher_num} pålydende {voucher_amount}
+
+Bare kopier/lim inn denne koden under betalingsprosessen av din neste
+ordre. 		 
+
+{shop_name} [{shop_url}] drevet av PrestaShop(tm)
+[http://www.prestashop.com/] 
+

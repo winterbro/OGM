@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hei {firstname} {lastname}, 
+
+Her er koden for rabattkupongen: {voucher_num}
+
+Bare kopier/lim inn denne koden under betalingsprosessen av din neste
+ordre. 		 
+
+{shop_name} [{shop_url}] drevet av PrestaShop(tm)
+[http://www.prestashop.com/] 
+

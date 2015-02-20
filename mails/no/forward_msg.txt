@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Hei {firstname} {lastname}, 
+
+{employee} ønsket å sende denne diskusjonen til deg. 
+
+DISKUSJONSHISTORIE: {messages}
+
+{employee} la til "{comment}" 		 
+
+{shop_name} [{shop_url}] drevet av PrestaShop(tm)
+[http://www.prestashop.com/] 
+
